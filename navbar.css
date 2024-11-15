@@ -17,3 +17,12 @@ a {
   font-variation-settings:
     "wdth" 100;
 }
+
+a:hover {
+    color:orange;
+    
+}
+
+.active a {
+    color: orangered;
+}
