@@ -7,7 +7,7 @@ body, html {
   }
   
   h1 {
-    color: navy;
+    color: rgb(4, 158, 235);
     margin-left: 20px;
   }
 
@@ -27,7 +27,7 @@ body, html {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: linear-gradient(to right, orange , red);
+  background-image: linear-gradient(to right, rgb(6, 64, 132) , rgb(117, 111, 111));
   padding: 20px;
   width: 800px;
  }
@@ -45,7 +45,7 @@ body, html {
  }
 
  p {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI Bold', Tahoma, Geneva, Verdana, sans-serif;
  }
 
  .betaling p {
@@ -53,3 +53,13 @@ body, html {
   
  }
 
+
+button { 
+background-color: aquamarine;
+border-radius: 25px;
+width: 130px;
+ }
+
+ button p {
+  color:rgb(6, 28, 9);
+ }
