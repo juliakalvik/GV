@@ -19,10 +19,10 @@ a {
 }
 
 a:hover {
-    color:orange;
+    color:rgb(7, 161, 250);
     
 }
 
 .active a {
-    color: orangered;
+    color: rgb(0, 153, 255);
 }
